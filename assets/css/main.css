@@ -71,6 +71,7 @@
 	}
 }
 
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1496,7 +1497,7 @@ input, select, textarea {
 
 		#header nav {
 			position: absolute;
-			right: 0;
+			right: 6%;
 			top: 0;
 		}
 
@@ -2052,6 +2053,8 @@ input, select, textarea {
 		}
 
 /* Footer */
+
+	
 
 	#footer .copyright {
 		color: #505051;
